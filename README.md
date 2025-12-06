@@ -1,2 +1,3 @@
 # Hotelli
-Hotelli työ
+Hotelli harjoitustyö
+Arvosanatavoite - 5
